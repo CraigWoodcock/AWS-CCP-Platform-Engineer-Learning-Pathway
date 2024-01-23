@@ -5,6 +5,9 @@
   - [EC2 Fundamentals](#ec2-fundamentals)
     - [Creating Apache Web Server EC2](#creating-apache-web-server-ec2)
     - [SSH'ing Into the EC2](#sshing-into-the-ec2)
+  - [Load Balancing and Auto Scaling Groups](#load-balancing-and-auto-scaling-groups)
+    - [Elastic and Application Load Balancing](#elastic-and-application-load-balancing)
+    - [Auto Scaling Groups](#auto-scaling-groups)
 
 
 ## IAM - Identity & Access Managment
@@ -20,3 +23,9 @@
   ### SSH'ing Into the EC2
   - [SSH Into EC2 Instance](ec2-fundamentals/SSH-Into-EC2)
   
+
+## Load Balancing and Auto Scaling Groups
+  ### Elastic and Application Load Balancing
+  - [Elastic and Application Load Balancing](Elastic-Load-Balancing-and-Auto-Scaling-Groups/Elastic-and-Application-Load-Balancing-ELB-&-ALB)
+
+  ### Auto Scaling Groups
