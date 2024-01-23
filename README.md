@@ -29,3 +29,4 @@
   - [Elastic and Application Load Balancing](Elastic-Load-Balancing-and-Auto-Scaling-Groups/Elastic-and-Application-Load-Balancing-ELB-&-ALB)
 
   ### Auto Scaling Groups
+  - [Auto Scaling Groups](<Elastic-Load-Balancing-and-Auto-Scaling-Groups/Auto Scaling Groups>)
