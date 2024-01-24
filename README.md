@@ -8,6 +8,7 @@
   - [Load Balancing and Auto Scaling Groups](#load-balancing-and-auto-scaling-groups)
     - [Elastic and Application Load Balancing](#elastic-and-application-load-balancing)
     - [Auto Scaling Groups](#auto-scaling-groups)
+  - [Amazon S3 Storage](#amazon-s3-storage)
 
 
 ## IAM - Identity & Access Managment
@@ -25,8 +26,15 @@
   
 
 ## Load Balancing and Auto Scaling Groups
+
+
   ### Elastic and Application Load Balancing
   - [Elastic and Application Load Balancing](Elastic-Load-Balancing-and-Auto-Scaling-Groups/Elastic-and-Application-Load-Balancing-ELB-&-ALB)
 
   ### Auto Scaling Groups
   - [Auto Scaling Groups](<Elastic-Load-Balancing-and-Auto-Scaling-Groups/Auto-Scaling-Groups>)
+
+
+## Amazon S3 Storage
+
+  - [Using S3 Storage](Amazon-S3/Using-S3-Storage)

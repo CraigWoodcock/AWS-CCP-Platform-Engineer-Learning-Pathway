@@ -67,4 +67,4 @@ Every time we refresh we will see a different IP Address printed to the web page
 
 ## Terminating the ASG and EC2 Instances
 
-When terminating, we must delete the ASG first and then the load balancer before we can terminate the EC2's. This is because the ASG and Load balancer will try to spin up Instancs to replace the terminated instances.
+When terminating, we must delete the ASG first and then the load balancer before we can terminate the EC2's. This is because the ASG and Load balancer will try to spin up Instances to replace the terminated instances.
