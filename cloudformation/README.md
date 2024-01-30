@@ -21,7 +21,7 @@
   - Savings Strategy - automate deletion and creation of templates safely 
 - Productivity
   - Destroy and create infrastructure on the cloud on the fly
-  - Automated generation of Diagram for you rtemplates
+  - Automated generation of Diagram for your templates
   - Declarative programming - no need to figure out ordering and orchestration
   - Leverage existing templates and documentation
 - Support
@@ -43,7 +43,7 @@
     - Review and Create the template
 2. Update the stack template
    - press 'Update'
-   - Select new file [EC2 and Security Groups](1-ec2-with-sg-eip.yaml)
+   - Select new file [EC2-with-Security-Groups.yml](1-ec2-with-sg-eip.yaml)
      - This creates an EC2, 2 Security groups and an Elastic IP
    - Review and update stack  
 
